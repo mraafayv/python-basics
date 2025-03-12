@@ -15,3 +15,7 @@ print(a);
 b = (4 - 2) * 6 / 2
 
 print(b);
+
+name = input('what is your name?\n');
+
+print('Hi', name)
