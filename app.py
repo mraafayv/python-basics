@@ -12,6 +12,6 @@ print(type(y))
 a = 4 ** 2  #4 squared by 2 
 print(a);
 
-b = 4 - 2 * 6 / 2
+b = (4 - 2) * 6 / 2
 
 print(b);
